@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @urlunaticguy
 - 👀 I’m interested in Web Development and App Development
 - 🌱 I’m currently learning Web Development and App Development
-- 💞️ I’m looking to collaborate on HTML, CSS and JS projects
+- 💞️ I’m looking to collaborate on Swift and iOS development.
 - 📫 You can reach me at souvikvillain@icloud.com
 
 <!---
