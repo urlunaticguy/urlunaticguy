@@ -8,6 +8,8 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=urlunaticguy&layout=compact)
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=urlunaticguy&repo=crework)](https://github.com/urlunaticguy/crework)
+
 <!---
 urlunaticguy/urlunaticguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
