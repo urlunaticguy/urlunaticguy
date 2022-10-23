@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and App Development
 - 🌱 I’m currently learning Web Development and App Development
 - 💞️ I’m looking to collaborate on Swift and iOS development.
-- 📫 You can reach me at souvikvillain@icloud.com
+- 📫 You can mail me at souvikvillain@icloud.com
 
 - Contact Me
   <div id="badges">
