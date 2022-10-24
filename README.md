@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @urlunaticguy
-- 👀 I’m interested in Web Development and App Development
-- 🌱 I’m currently learning Web Development and App Development
+- 👋 Hi, I’m Souvik Das.
+- 👀 I’m interested in Web Development and App Development.
+- 🌱 I’m currently learning Web Development and App Development.
 - 💞️ I’m looking to collaborate on Swift and iOS development.
 - 📫 You can mail me at souvikvillain@icloud.com
 
