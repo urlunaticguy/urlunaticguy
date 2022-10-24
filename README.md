@@ -1,3 +1,5 @@
+  ![](https://komarev.com/ghpvc/?username=urlunaticguy&color=blueviolet&style=for-the-badge)
+
 - 👋 Hi, I’m Souvik Das.
 - 👀 I’m interested in Web Development and App Development.
 - 🌱 I’m currently learning Web Development and App Development.
