@@ -21,16 +21,23 @@
   </div>
   
   <br>
+  
+- Tech Stack
+  <div>
+    <img src="https://img.shields.io/badge/HTML5-e44c20?style=for-the-badge&logo=html5&logoColor=white"/>
+  </div>
 
- ![Github stats](https://github-readme-stats.vercel.app/api?username=urlunaticguy&theme=highcontrast&show_icons=true&count_private=true)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=urlunaticguy&theme=highcontrast&show_icons=true&count_private=true)
 
- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=urlunaticguy&layout=compact)
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=urlunaticguy&layout=compact)
 
 - Check out this repo
 
- [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=urlunaticguy&repo=crework)](https://github.com/urlunaticguy/crework)
+  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=urlunaticguy&repo=crework)](https://github.com/urlunaticguy/crework)
 
-<!---
-urlunaticguy/urlunaticguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Some Stats for meself
+
+  <div>
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/urlunaticguy?style=social">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCd0496wmmZIv_lNHSLTG7ag?style=social">
+  </div>
