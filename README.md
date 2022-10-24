@@ -24,8 +24,22 @@
   
 - Tech Stack
   <div>
-    <img src="https://img.shields.io/badge/HTML5-e44c20?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-e44c20?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+    <img src="https://img.shields.io/badge/CSS3-204de5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+    <img src="https://img.shields.io/badge/JAVASCRIPT-grey?style=for-the-badge&logo=javascript&logoColor=efd81d" alt="Javascript Badge"/>
+    <img src="https://img.shields.io/badge/TAILWINDCSS-089ddd?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind Badge"/>
+    <img src="https://img.shields.io/badge/BOOTSTRAP-8113f9?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
+    <img src="https://img.shields.io/badge/JQUERY-0769ad?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery Badge"/>
+    <img src="https://img.shields.io/badge/REACT-grey?style=for-the-badge&logo=react&logoColor=61dafb" alt="React Badge"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/PYTHON-4381b3?style=for-the-badge&logo=python&logoColor=fee362" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/JAVA-497092?style=for-the-badge&logo=java&logoColor=f0921d" alt="Java Badge"/>
+    <br><br>
+    <img src="https://img.shields.io/badge/SWIFT-ff462a?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge"/>
+    <img src="https://img.shields.io/badge/XCODE-1766db?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode Badge"/>
   </div>
+  
+- GitHub Stats
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=urlunaticguy&theme=highcontrast&show_icons=true&count_private=true)
 
@@ -35,7 +49,7 @@
 
   [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=urlunaticguy&repo=crework)](https://github.com/urlunaticguy/crework)
 
-- Some Stats for meself
+- Social Stats
 
   <div>
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/urlunaticguy?style=social">
