@@ -20,6 +20,9 @@
     <a href="https://www.instagram.com/urlunaticguyy/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-dd4964?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
+    <a href="https://leetcode.com/urlunaticguy/" target="_blank">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
+    </a>
   </div>
   
   <br>
