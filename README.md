@@ -36,9 +36,10 @@
     <img src="https://img.shields.io/badge/BOOTSTRAP-8113f9?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
     <img src="https://img.shields.io/badge/JQUERY-0769ad?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery Badge"/>
     <img src="https://img.shields.io/badge/REACT-grey?style=for-the-badge&logo=react&logoColor=61dafb" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge"/>
     <br><br>
     <img src="https://img.shields.io/badge/PYTHON-4381b3?style=for-the-badge&logo=python&logoColor=fee362" alt="Python Badge"/>
-    <img src="https://img.shields.io/badge/JAVA-497092?style=for-the-badge&logo=java&logoColor=f0921d" alt="Java Badge"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
     <br><br>
     <img src="https://img.shields.io/badge/SWIFT-ff462a?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge"/>
     <img src="https://img.shields.io/badge/XCODE-1766db?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode Badge"/>
