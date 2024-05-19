@@ -14,7 +14,7 @@
     <a href="https://www.youtube.com/channel/UCd0496wmmZIv_lNHSLTG7ag" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-cc0101?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/urlunaticguy" target="_blank">
+    <a href="https://twitter.com/SouvikDas1106" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://www.instagram.com/urlunaticguyy/" target="_blank">
